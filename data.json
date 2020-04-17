@@ -6,5 +6,13 @@
     "Accusative": "Дмитрия",
     "Ablative": "Дмитрием",
     "Prepositional": "Дмитрии"
+  },
+  "Anton": {
+    "Nominative": "Антон",
+    "Genitive": "Антона",
+    "Dative": "Антону",
+    "Accusative": "Антона",
+    "Ablative": "Антоном",
+    "Prepositional": "Антоне"
   }
 }
